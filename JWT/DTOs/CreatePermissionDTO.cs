@@ -2,6 +2,8 @@
 {
     public class CreatePermissionDTO
     {
+
+
         public string Name { get; set; }
     }
 }
